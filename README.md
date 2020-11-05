@@ -1,6 +1,5 @@
 Welcome!
 
-<!DOCTYPE html>
 <html>
 <body>
 
@@ -19,4 +18,3 @@ Welcome!
 <a href="https://www.youtube.com/channel/UC8uR2Nl5BtbuLCmQkTwHViw">My YouTube channel</a>
 
 </body>
-</html>
