@@ -1,5 +1,6 @@
 Welcome!
 
+<!DOCTYPE html>
 <html>
 <body>
 
