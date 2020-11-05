@@ -14,8 +14,10 @@ Welcome!
 <a href="https://twitter.com/User12418226185">My Twitter</a>
 <p></p>
 <a href="https://www.instagram.com/user124_yt/">My Instagram</a>
-<P>Subscribe to Gamers channel -</p>
+<P></p>
 <a href="https://www.youtube.com/channel/UC851xC5_v-0AsiCuk_MJlHA">Gamers Channel</a>
+<p>This is my official website for my youtube</p>
+<a href="https://www.youtube.com/channel/UC8uR2Nl5BtbuLCmQkTwHViw">My YouTube channel</a>
 
 </body>
 </html>
